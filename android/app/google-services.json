@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1046965427860",
+    "firebase_url": "https://achilleserp.firebaseio.com",
+    "project_id": "achilleserp",
+    "storage_bucket": "achilleserp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046965427860:android:d3a5c1c80eec0585569e81",
+        "android_client_info": {
+          "package_name": "com.example.achilleserp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046965427860-5lr25de7d6aacbnq1leqsg90po7edqk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyCvqtaSEVI_Dn9FJ-JbfLkRRZhO0h_8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046965427860-5lr25de7d6aacbnq1leqsg90po7edqk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
